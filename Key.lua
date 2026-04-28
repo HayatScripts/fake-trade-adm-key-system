@@ -11,7 +11,7 @@ local Config = {
     PlatoSecret     = "24990ac8-aa22-48d0-9c5c-80e9bc2f665d", -- Your PlatoBoost Secret Key
 
     -- [2] Anti-Bypass / Global Secret Variable
-    Secret          = "Makoftr123+", -- This makes the script ONLY run from the key script. Even if they copy the original obfuscated script to bypass the key, they won't be able to!
+    Secret          = "Makoftr123", -- This makes the script ONLY run from the key script. Even if they copy the original obfuscated script to bypass the key, they won't be able to!
     
     -- [3] Scripts & Links
     MainScriptURL   = "https://raw.githubusercontent.com/HayatScripts/fake-trade-adm-key-system/refs/heads/main/key%20system", -- The raw URL of your main script
